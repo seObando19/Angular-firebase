@@ -117,8 +117,16 @@
               "devServerTarget": "angularFirebase:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
-  "defaultProject": "angularFirebase"
+    }
+  },
+  "defaultProject": "angularFirebase",
+  "cli": {
+    "analytics": "b79b93e7-b28d-4d5b-ba63-210cb4e4016d"
+  }
 }

@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "dominicode-180fd": {
+      "hosting": {
+        "angularFirebase": [
+          "dominicode-180fd"
+        ]
+      }
+    }
+  }
+}
